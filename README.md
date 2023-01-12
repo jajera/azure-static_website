@@ -1,5 +1,4 @@
-# azure-vnet_provisioning
+# azure-static-website
 
-Terraform implementation of Azure logic apps.
+Terraform implementation of Azure static website.
 
-https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-export-logic-app
